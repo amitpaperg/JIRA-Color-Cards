@@ -1,0 +1,7 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+.ghx-selected-primary {
+    border: 2px solid #333 !important;
+    margin-bottom: 2px !important;
+}
