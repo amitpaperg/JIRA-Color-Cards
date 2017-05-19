@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "author": "Amit Velingkar",
   "description": "Colors jira cards prominently when Card Colors are set on JIRA scrum or kanban boards",
-  "homepage_url": "http://extensionizr.com",
+  "homepage_url": "https://github.com/amitvelingkar/JIRA-Color-Cards",
   "default_locale": "en",
   "permissions": [
     "https://*.atlassian.net/secure/RapidBoard*",
